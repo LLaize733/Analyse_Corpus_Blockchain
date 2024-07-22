@@ -3,13 +3,10 @@
 # liste des fichiers de données récupérés avec le programme data_collection.py script
 # (to keep the histograms usable, I recommand not to select more than 6 data files)
 
-#Here are the articles i chose
-
-
+#Here are the articles i chose :
     #"2024-04-25_18-58-22_en_Non-fungible token.csv",
     #"2024-04-25_18-58-22_en_Blockchain.csv",
     #"2024-04-25_18-58-22_en_Cryptocurrency.csv",
-
     #2024-04-25_18-58-22_en_'History of bitcoin', 'en'.csv
     #2024-04-25_18-58-22_en_'Everipedia', 'en'.csv
     #2024-04-25_18-58-22_en_'Do Kwon', 'en'.csv
@@ -128,7 +125,7 @@ for data_file in data_files :
 				histo_data[data_file][str(time_steps[i])] += 1
 				break
 
-# building a nice CSV output
+# CSV output
 # each timestep is a row, each file is a column
 out = 'timeframe'
 for data_file in data_files :
