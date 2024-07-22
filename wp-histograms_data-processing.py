@@ -1,6 +1,6 @@
 #configuration :
 
-# list the data files (from the data_collection.py script) you want to process
+# liste des fichiers de données récupérés avec le programme data_collection.py script
 # (to keep the histograms usable, I recommand not to select more than 6 data files)
 
     #"2024-04-25_18-58-22_en_Non-fungible token.csv",
