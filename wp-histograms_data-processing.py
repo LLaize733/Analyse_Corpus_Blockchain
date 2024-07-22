@@ -3,6 +3,9 @@
 # liste des fichiers de données récupérés avec le programme data_collection.py script
 # (to keep the histograms usable, I recommand not to select more than 6 data files)
 
+#Here are the articles i chose
+
+
     #"2024-04-25_18-58-22_en_Non-fungible token.csv",
     #"2024-04-25_18-58-22_en_Blockchain.csv",
     #"2024-04-25_18-58-22_en_Cryptocurrency.csv",
@@ -14,26 +17,10 @@
     #2024-04-25_18-58-22_en_'William Entriken', 'en'.csv
     #2024-04-25_18-58-22_en_'History of video games', 'en'.csv
 
-
 data_files = [
         
         #"2024-04-25_18-58-22_en_History of video games.csv",
-        #"2024-04-25_18-58-22_en_Non-fungible token.csv"
-      '2024-04-25_18-58-22_en_Bitcoin.csv',
-      #'2024-04-25_18-58-22_en_Cryptocurrency.csv',
-      #'2024-04-25_18-58-22_en_History of bitcoin.csv',
-      #'2024-04-25_18-58-22_en_Non-fungible token.csv',
-    
-        #'2024-04-25_18-58-22_en_Everipedia.csv'
-        #'2024-04-25_18-58-22_en_History of bitcoin.csv'
-        #'2024-04-25_18-58-22_en_List of Internet top-level domains.csv'
-        #'2024-04-25_18-58-22_en_History of video games.csv"
-        #'2024-04-25_18-58-22_en_Non-fungible token.csv",
-        #"2024-04-25_18-58-22_en_Cryptocurrency.csv",
-        #"2024-04-25_18-58-22_en_Blockchain.csv",
-        #"2024-04-25_18-58-22_en_Bitcoin.csv",
-        #"1_Bitcoin.xlsx"
-
+      '2024-04-25_18-58-22_en_Bitcoin.csv'
 ]
 
 # the CSV table and the histogram will present data in this same order
